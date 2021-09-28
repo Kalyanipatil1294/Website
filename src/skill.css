@@ -1,0 +1,9 @@
+.sb-container div{
+    transition: all 700ms ease 0s;
+}
+main {
+    display: flex;
+}
+.skill-section {
+    width: 40%;
+}
